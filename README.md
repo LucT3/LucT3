@@ -92,4 +92,5 @@
 ## Profile Stats 📈
 <p align="center">
   <img height="180em" src='https://streak-stats.demolab.com?user=LucT3&theme=radical&hide_border=true' />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucT3&theme=radical&layout=compact&exclude_lang=java+r" />
 </p>
