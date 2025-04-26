@@ -5,8 +5,8 @@
   <a href="mailto:example@email.com"><b>📧 luc.tartaglia@outlook.it</b></a>
 </p>
 <p align="center" style="font-family:Calibri; font-weight:bold; font-size:18px;">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="25" height="25" style="vertical-align:middle;"/>
+  <a href="https://www.linkedin.com/in/luca-tartaglia-266a00362/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" style="vertical-align:middle"/>
     <b> Visit my LinkedIn profile</b>
   </a>
 </p>
