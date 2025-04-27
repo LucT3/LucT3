@@ -15,7 +15,7 @@
 
 ## About Me 👨‍🎓 🇮🇹
 - Master's Degree in Computer Engineering at **University of Pisa** 
-- Bachelor's Degreee in Computer Science at **University of Naples - Federico II** 🍕
+- Bachelor's Degree in Computer Science at **University of Naples - Federico II** 🍕
 - Erasmus+ at **University of Huelva** 🇪🇸
 - In love with Sports and Travel ⚽🏀✈️
 <br>
