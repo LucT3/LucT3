@@ -2,8 +2,15 @@
 
 ## Connect With Me 🤝🏻
 <p align="center" style="font-family:Calibri; font-weight:bold; font-size:18px;">
-  <a href="mailto:example@email.com"><b>📧 luc.tartaglia@outlook.it</b></a>
+<a href="mailto:luc.tart0@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="20" height="20" style="vertical-align:middle"/>
+  <b> luc.tart0@gmail.com</b>
+</a>
 </p>
+<p align="center" style="font-family:Calibri; font-weight:bold; font-size:18px;">
+<a href="mailto:luc.tartaglia@outlook.it"><b>📧 luc.tartaglia@outlook.it</b></a>
+</p>
+
 <p align="center" style="font-family:Calibri; font-weight:bold; font-size:18px;">
   <a href="https://www.linkedin.com/in/luca-tartaglia-79764b363/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" style="vertical-align:middle"/>
